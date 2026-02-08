@@ -1,6 +1,6 @@
 # GR-ProblemSet
 
-NCSU PY 509 problem set (including solutions) tested on the following topics:
+NCSU PY 509 problem set (with solutions) tested on the following topics:
 
 - Stellar structure equations
 - Hydrostatic equilibrium equation
