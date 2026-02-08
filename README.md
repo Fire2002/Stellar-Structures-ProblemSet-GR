@@ -1,4 +1,4 @@
-# GR-ProblemSet
+# Stellar-Structures-ProblemSet-GR
 
 NCSU PY 509 problem set (with solutions) tested on the following topics:
 
